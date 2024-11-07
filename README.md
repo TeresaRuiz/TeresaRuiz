@@ -11,7 +11,7 @@ Soy una desarrolladora apasionada por crear soluciones tecnológicas innovadoras
 * Integración con APIs para gestión de catálogo de libros
 * Interfaz intuitiva para explorar y gestionar colecciones de libros
 * Tecnologías: React, JavaScript, REST APIs
-* [Ver proyecto](https://github.com/TeresaRuiz/NewPowerLetters)
+* [Ver proyecto](https://github.com/TeresaRuiz/PowerLetters_Mobile)
 
 #### 👟 Cómodos - E-commerce de Zapatos
 * Proyecto colaborativo de e-commerce
@@ -19,7 +19,7 @@ Soy una desarrolladora apasionada por crear soluciones tecnológicas innovadoras
 * Integración con backend y APIs
 * Sistema completo de gestión de productos
 * Tecnologías: React, JavaScript, REST APIs
-* [Ver proyecto]((https://github.com/TeresaRuiz/Expo_Comodo_Movil)
+* [Ver proyecto](https://github.com/TeresaRuiz/Expo_Comodo_Movil)
 
 ### 💻 Tecnologías
 
