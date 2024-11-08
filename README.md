@@ -16,7 +16,7 @@ const teresa = {
   focus: "Desarrollo web y móvil"
 }
 ```
-## 📊 Mis Lenguajes más usados
+## 📊 Mis lenguajes más usados
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresaRuiz&layout=compact&theme=radical&title_color=FF69B4&text_color=FF69B4&bg_color=20,FAF0F5,FFF0F5)
@@ -57,7 +57,7 @@ const teresa = {
   * Gestión de pedidos
   * Métricas de ventas
   * [Ver sistema administrativo](https://github.com/TeresaRuiz/Expo_Comodo)
-## 💝 Habilidades Técnicas
+## 💝 Habilidades técnicas
 
 <div align="center">
 
