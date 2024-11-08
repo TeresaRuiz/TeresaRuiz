@@ -16,29 +16,47 @@ const teresa = {
   focus: "Desarrollo web y móvil"
 }
 ```
+## 📊 Mis Lenguajes más usados
+<div align="center">
 
-## 🎀 Proyectos Destacados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresaRuiz&layout=compact&theme=radical&title_color=FF69B4&text_color=FF69B4&bg_color=20,FAF0F5,FFF0F5)
 
-### 📚 Power Letters - App de Libros
-<img align="right" src="/api/placeholder/200/120" width="200px" />
+</div>
 
-> Una aplicación móvil para amantes de la lectura
+## 🌺 Proyectos destacados
 
-* 📱 Desarrollada con React Native
-* 🔄 Integración con APIs
+### 📚 Power Letters
+
+> Plataforma completa de gestión de librería
 * 💫 UI/UX intuitiva y elegante
-* [Ver proyecto](https://github.com/TeresaRuiz/PowerLetters_Mobile)
+
+* 📱 Aplicación móvil para clientes
+  * Catálogo de libros
+  * Sistema de reseñas
+  * Carrito de compras
+  * 📱 Desarrollada con React Native
+  * 🔄 Integración con APIs
+  * [Ver app móvil](https://github.com/TeresaRuiz/PowerLetters_Mobile)
+* 💻 Sistema administrativo web
+  * Gestión de inventario
+  * Panel de administración
+  * Reportes y gráficas
+  * [Ver sistema web](https://github.com/TeresaRuiz/PowerLetters_TeresaVersion)
 
 ### 👟 Cómodos - E-commerce
-<img align="right" src="/api/placeholder/200/120" width="200px" />
 
 > Tienda virtual de calzado
-
-* 🛍️ E-commerce colaborativo
-* 🎨 Frontend con React Native
-* 🔐 Sistema de gestión completo
-* [Ver proyecto](https://github.com/TeresaRuiz/Expo_Comodo_Movil)
-
+** 🔐 Sistema de gestión completo
+* 🛍️ Aplicación móvil E-commerce
+  * Catálogo de productos
+  * Proceso de compra
+  * 🎨 Frontend con React Native
+  * [Ver app móvil](https://github.com/TeresaRuiz/Expo_Comodo_Movil)
+* 🎯 Panel administrativo web
+  * Control de inventario
+  * Gestión de pedidos
+  * Métricas de ventas
+  * [Ver sistema administrativo](https://github.com/TeresaRuiz/Expo_Comodo)
 ## 💝 Habilidades Técnicas
 
 <div align="center">
