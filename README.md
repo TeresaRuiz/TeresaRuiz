@@ -19,7 +19,7 @@ const teresa = {
 ## 📊 Mis lenguajes más usados
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeresaRuiz&layout=compact&theme=radical&title_color=FF69B4&text_color=FF69B4&bg_color=20,FAF0F5,FFF0F5)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeresaRuiz&theme=radical)
 
 </div>
 
